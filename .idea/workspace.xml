@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e73c06c4-6b32-470d-85d9-33e2ef3cf02e" name="Changes" comment="Create Spring boot Application">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelrahman/nasr/eldin/expensestreacker/ExpensesTreackerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/abdelrahman/nasr/eldin/expensestreacker/ExpensesTrackerApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QIu0dEitZbFlOqd55SX6AAyDLp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "N:/Work/Projects/ExpensesTreacker/BackEnd",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.abdelrahman.nasr.eldin.expensestreacker.service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="clean install;" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
+      <option name="passParentEnvironments" value="true" />
+      <option name="workspaceLocation" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="LiferayServerConfiguration" factoryName="Liferay Server">
+      <option name="alternativeJrePath" value="" />
+      <option name="alternativeJrePathEnabled" value="true" />
+      <option name="buildType" value="" />
+      <option name="bundleLocation" value="" />
+      <option name="developerMode" value="true" />
+      <option name="gogoShellPort" value="11311" />
+      <option name="passParentEnvironments" value="true" />
+      <option name="vmParameters" value="-Xmx2560m -XX:MaxMetaspaceSize=768m -XX:MetaspaceSize=768m" />
+      <envs>
+        <env name="EFC_8180" value="1" />
+        <env name="USERDOMAIN_ROAMINGPROFILE" value="NASRELDIN-DIGIN" />
+        <env name="PATH" value="$USER_HOME$/.jdks/openjdk-20.0.1/bin:null" />
+        <env name="OneDriveCommercial" value="C:\Users\abdel\OneDrive - DIGINATION" />
+        <env name="LOCALAPPDATA" value="C:\Users\abdel\AppData\Local" />
+        <env name="PROCESSOR_LEVEL" value="6" />
+        <env name="USERDOMAIN" value="NASRELDIN-DIGIN" />
+        <env name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer" />
+        <env name="LOGONSERVER" value="\\NASRELDIN-DIGIN" />
+        <env name="JAVA_HOME" value="$USER_HOME$/.jdks/openjdk-20.0.1" />
+        <env name="SESSIONNAME" value="Console" />
+        <env name="ALLUSERSPROFILE" value="C:\ProgramData" />
+        <env name="PROCESSOR_ARCHITECTURE" value="AMD64" />
+        <env name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules" />
+        <env name="SystemDrive" value="C:" />
+        <env name="MAVEN_HOME" value="N:\Programs\Java\Maven\apache-maven-3.8.7-bin\apache-maven-3.8.7" />
+        <env name="OneDrive" value="C:\Users\abdel\OneDrive - DIGINATION" />
+        <env name="APPDATA" value="C:\Users\abdel\AppData\Roaming" />
+        <env name="USERNAME" value="abdel" />
+        <env name="ProgramFiles(x86)" value="C:\Program Files (x86)" />
+        <env name="CommonProgramFiles" value="C:\Program Files\Common Files" />
+        <env name="Path" value="C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\Java\jdk-17\bin;N:\Programs\Java\Maven\apache-maven-3.8.7-bin\apache-maven-3.8.7\bin;C:\Users\abdel\AppData\Local\Microsoft\WindowsApps;C:\Users\abdel\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\abdel\AppData\Local\Programs\Microsoft VS Code\bin;" />
+        <env name="FPS_BROWSER_USER_PROFILE_STRING" value="Default" />
+        <env name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+        <env name="DriverData" value="C:\Windows\System32\Drivers\DriverData" />
+        <env name="OS" value="Windows_NT" />
+        <env name="COMPUTERNAME" value="NASRELDIN-DIGIN" />
+        <env name="PROCESSOR_REVISION" value="8c01" />
+        <env name="CommonProgramW6432" value="C:\Program Files\Common Files" />
+        <env name="ComSpec" value="C:\Windows\system32\cmd.exe" />
+        <env name="ProgramData" value="C:\ProgramData" />
+        <env name="ProgramW6432" value="C:\Program Files" />
+        <env name="__PSLockDownPolicy" value="0" />
+        <env name="HOMEPATH" value="\Users\abdel" />
+        <env name="SystemRoot" value="C:\Windows" />
+        <env name="TEMP" value="C:\Users\abdel\AppData\Local\Temp" />
+        <env name="HOMEDRIVE" value="C:" />
+        <env name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 140 Stepping 1, GenuineIntel" />
+        <env name="USERPROFILE" value="C:\Users\abdel" />
+        <env name="TMP" value="C:\Users\abdel\AppData\Local\Temp" />
+        <env name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+        <env name="ProgramFiles" value="C:\Program Files" />
+        <env name="PUBLIC" value="C:\Users\Public" />
+        <env name="NUMBER_OF_PROCESSORS" value="8" />
+        <env name="windir" value="C:\Windows" />
+        <env name="=::" value="::\" />
+        <env name="IDEA_INITIAL_DIRECTORY" value="C:\Windows\system32" />
+        <env name="ZES_ENABLE_SYSMAN" value="1" />
+      </envs>
+      <module name="ExpensesTreacker" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExpensesTreackerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ExpensesTreacker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.abdelrahman.nasr.eldin.expensestreacker.ExpensesTreackerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e73c06c4-6b32-470d-85d9-33e2ef3cf02e" name="Changes" comment="" />
+      <created>1685053195294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685053195294</updated>
+      <workItem from="1685053196293" duration="5962000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create Spring boot Application">
+      <created>1685053568929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685053568929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Spring boot Application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Spring boot Application" />
+  </component>
+</project>
